@@ -1,0 +1,7 @@
+[submodule "third_party/foo"]
+  path = third_party/foo
+  url = git@github.com:forexample/foo
+
+[submodule "third_party/bar"]
+  path = third_party/bar
+  url = git@github.com:forexample/bar
